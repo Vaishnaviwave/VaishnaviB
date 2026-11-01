@@ -1,4 +1,4 @@
-# Vaishnaviwave Portfolio & Projects
+# Vaishnavi-wave Portfolio & Projects
 
 All portfolio and project files are packaged in this single folder for easy access and deployment.
 
